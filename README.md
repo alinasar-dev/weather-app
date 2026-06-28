@@ -2,23 +2,20 @@
 
 A modern and responsive weather application that provides real-time weather information for any city using a weather API. Users can search for locations and instantly view current weather conditions, including temperature, humidity, wind speed, and more.
 
-## 🚀 Live Demo
-
 🔗 https://alinasar-dev.github.io/weather-app/
-<!-- Replace with your deployed URL if available -->
-
----
 
 ## ✨ Features
 
 - 🌍 Search weather by city name
 - 🌡️ Real-time temperature display
-- ☁️ Weather condition and icon
-- 💧 Humidity information
-- 💨 Wind speed
-- 📍 Location details
+- ☁️ 5-day weather forecast
+- 💧 Humidity & Wind speed information
 - 📱 Fully responsive design
 - ⚡ Fast and lightweight interface
+
+<p align="center">
+  <img src="assets/home.png" alt="Weather App Screenshot" width="500">
+</p>
 
 ---
 
@@ -27,26 +24,8 @@ A modern and responsive weather application that provides real-time weather info
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Weather API (OpenWeatherMap / WeatherAPI / Open-Meteo)
+- Weather API (OpenWeatherMap / WeatherAPI)
 - Fetch API
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here
-
-Example:
-
-```
-assets/screenshot.png
-```
-
-or
-
-```markdown
-![Home Screen](assets/home.png)
-```
 
 ---
 
@@ -109,46 +88,9 @@ const API_KEY = "YOUR_API_KEY";
 
 ## 🎯 Future Improvements
 
-- 5-day weather forecast
-- Hourly forecast
 - Current location support
 - Dark mode
 - Weather maps
-- Recent search history
-- Temperature unit toggle (°C / °F)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add feature"
-```
-
-4. Push to the branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -157,7 +99,5 @@ This project is licensed under the MIT License.
 **Ali Nasar**
 
 - GitHub: https://github.com/alinasar-dev
-
+- **Credits:** Special thanks to **CodeArry** for the excellent tutorial and guidance.
 ---
-
-⭐ If you like this project, consider giving it a star!
